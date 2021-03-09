@@ -1,0 +1,13 @@
+.on {
+    display: inline-block !important;
+}
+
+.off {
+    display: none !important;
+}
+
+button {
+    width: 40px;;
+    border: white;
+    background: none;
+}
